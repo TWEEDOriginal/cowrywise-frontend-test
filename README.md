@@ -30,7 +30,7 @@ a user's query.
 
 ## Built With
 
-- [Nodejs](https://nodejs.org/en/)
+- [Javascript](https://www.javascript.com/)
 - [Vue 3](https://v3.vuejs.org/)
 
 ## Project setup
