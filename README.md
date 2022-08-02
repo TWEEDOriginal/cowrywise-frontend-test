@@ -1,4 +1,4 @@
-# Cowrywise Backend Job application test
+# Cowrywise Frontend Job application test
 
 It uses the **Unsplash API** , to create a mini unsplash clone using the mockups and design provided by cowrywise [here](https://www.notion.so/cowrywise/Frontend-Engineer-Test-3a4aeb677c604ca9b41cdac102d2f974)
 
